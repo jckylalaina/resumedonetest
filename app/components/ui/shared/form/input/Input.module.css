@@ -17,7 +17,7 @@
 .label {
   position: absolute;
   padding: 0 4px;
-  top: 5px;
+  top: 2px;
   left: 10px;
   background-color: #fff;
   font-size: var(--size-text-sm);
