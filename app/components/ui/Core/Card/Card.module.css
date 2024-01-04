@@ -38,7 +38,6 @@
   position: relative;
   display: flex;
   max-width: 250px;
-
   justify-content: center;
   align-items: center;
 }
@@ -46,7 +45,6 @@
 @media only screen and (min-width: 764px) {
   .image-wrapper {
     width: 250px;
-    width: 100% !important;
   }
 }
 
