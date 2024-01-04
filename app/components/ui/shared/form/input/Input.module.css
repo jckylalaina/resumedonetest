@@ -10,6 +10,7 @@
   border: 1px solid var(--color-gray-light);
   color: var(--color-gray);
   font-size: var(--size-text-medium);
+  font-family: var(--font-gilroy-medium);
   padding: 8px 12px;
 }
 
