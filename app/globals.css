@@ -29,7 +29,7 @@
 h4 {
   line-height: 20px;
   font-size: var(--size-text-title-h4);
-  font-family: var(--font-gilroy-bold);
+  font-family: var(--font-gilroy-medium);
 }
 
 p {
